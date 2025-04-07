@@ -1,7 +1,7 @@
 name: smart_progress_indicator
 description: "A customizable and real-time progress indicator for Flutter apps."
 version: 1.0.0
-homepage: "https://github.com/Hashini99/CustomProgressIndicator"
+homepage: "https://github.com/Hashini99/Smart_Progress_Indicator.git"
 
 environment:
   sdk: ^3.7.2
